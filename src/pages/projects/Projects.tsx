@@ -6,8 +6,7 @@ export const Projects:React.FC = () => {
     return(
         <>
         <Navigation />
-        <div className="projectContainer">
-            
+        <div className="ProjectContainer">
         </div>
         </>
     )
