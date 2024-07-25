@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    color: white;
+}
+.projectContainer {
+    height: 89.9vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #000000;
+}
